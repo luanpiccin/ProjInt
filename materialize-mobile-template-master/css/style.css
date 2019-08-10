@@ -62,23 +62,3 @@
 .The-purple-hues-slot-canyon-Antelope-3-hsla { color: hsla(45, 96, 48, 1); }
 .The-purple-hues-slot-canyon-Antelope-4-hsla { color: hsla(33, 96, 48, 1); }
 .The-purple-hues-slot-canyon-Antelope-5-hsla { color: hsla(22, 96, 48, 1); }
-        .mdi-phone{
-          position: relative !important;
-        }
-        .phone-icon{        
-          position: absolute;
-          top: 50%;
-          transform: translateY(-50%);
-          margin: auto;
-          width: 1.8rem;
-          font-size: 1.5rem;
-          -webkit-transition: color 0.2s;
-          -moz-transition: color 0.2s;
-          -o-transition: color 0.2s;
-          -ms-transition: color 0.2s;
-          transition: color 0.2s;
-        }
-
-        .phone-icon svg{
-          fill: #999
-        }
